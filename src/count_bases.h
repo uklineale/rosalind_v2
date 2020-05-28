@@ -1,0 +1,1 @@
+vector<int> count_bases(const string s);
